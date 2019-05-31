@@ -27,7 +27,7 @@ h2 + .user_review {
 /* This is useful when implementing a grid system so that all image elements
 will take up 100% width of their containers */
 img {
-  width: 100%
+  width: 100%;
 }
 
 
